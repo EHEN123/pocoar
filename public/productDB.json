@@ -1,0 +1,56 @@
+{
+  "miniMug": [
+    "/asset/gallery/minimug/mini_mug_1.jpg",
+    "/asset/gallery/minimug/mini_mug_2.jpg",
+    "/asset/gallery/minimug/mini_mug_3.jpg",
+    "/asset/gallery/minimug/mini_mug_4.jpg",
+    "/asset/gallery/minimug/mini_mug_5.jpg",
+    "/asset/gallery/minimug/mini_mug_6.jpg",
+    "/asset/gallery/minimug/mini_mug_7.jpg",
+    "/asset/gallery/minimug/mini_mug_8.jpg",
+    "/asset/gallery/minimug/mini_mug_9.jpg",
+    "/asset/gallery/minimug/mini_mug_10.jpg",
+    "/asset/gallery/minimug/mini_mug_11.jpg",
+    "/asset/gallery/minimug/mini_mug_12.jpg",
+    "/asset/gallery/minimug/mini_mug_13.jpg",
+    "/asset/gallery/minimug/mini_mug_14.jpg",
+    "/asset/gallery/minimug/mini_mug_15.jpg",
+    "/asset/gallery/minimug/mini_mug_16.jpg"
+  ],
+  "mug": [
+    "/asset/gallery/mug/mug_1.jpg",
+    "/asset/gallery/mug/mug_2.jpg",
+    "/asset/gallery/mug/mug_3.jpg",
+    "/asset/gallery/mug/mug_4.jpg",
+    "/asset/gallery/mug/mug_5.jpg",
+    "/asset/gallery/mug/mug_6.jpg",
+    "/asset/gallery/mug/mug_7.jpg",
+    "/asset/gallery/mug/mug_8.jpg",
+    "/asset/gallery/mug/mug_9.jpg"
+  ],
+  "plate": [
+    "/asset/gallery/plate/plate_1.jpg",
+    "/asset/gallery/plate/plate_2.jpg",
+    "/asset/gallery/plate/plate_3.jpg",
+    "/asset/gallery/plate/plate_4.jpg",
+    "/asset/gallery/plate/plate_5.jpg",
+    "/asset/gallery/plate/plate_6.jpg",
+    "/asset/gallery/plate/plate_7.jpg",
+    "/asset/gallery/plate/plate_8.jpg",
+    "/asset/gallery/plate/plate_9.jpg",
+    "/asset/gallery/plate/plate_10.jpg"
+  ],
+  "life": [
+    "/asset/gallery/life/life_1.jpg",
+    "/asset/gallery/life/life_2.jpg",
+    "/asset/gallery/life/life_3.jpg",
+    "/asset/gallery/life/life_4.jpg",
+    "/asset/gallery/life/life_5.jpg",
+    "/asset/gallery/life/life_6.jpg",
+    "/asset/gallery/life/life_7.jpg",
+    "/asset/gallery/life/life_8.jpg",
+    "/asset/gallery/life/life_9.jpg",
+    "/asset/gallery/life/life_10.jpg",
+    "/asset/gallery/life/life_11.jpg"
+  ]
+}
