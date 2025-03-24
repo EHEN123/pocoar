@@ -5,7 +5,7 @@ export default function Visual() {
   return (
     <div>
 
-      <section className="main py-0 px-5 pt-5" id="header">
+      <section className="main py-0 px-md-5 pt-md-5" id="header">
         {/* 전체를 감싸는 큰 div(pc~태블릿) */}
         <div className="pcVisual container-fluid  overflow-hiddens p-0 d-none d-md-flex pt-3 mt-5 ">
 
@@ -66,9 +66,9 @@ export default function Visual() {
 
           {/* 우측 div */}
           <div className="box02 ms-5 d-flex align-items-center justify-content-center w-100">
-            {/* <p style={{color: "aliceblue"}}>여기에 영상 링크 걸기...</p> */}
-            {/* <img src="https://github.com/EHEN123/boot5/blob/2cad293a15045484d6ed7d2c46242e200887e25f/html/assets/img/icons/qr.png?raw=true" alt=""> */}
-
+            <video autoPlay loop muted>
+              <source src="/asset/gallery/video/pocoar_main01.mp4" type="video/mp4" />
+            </video>
           </div>
 
 
@@ -77,11 +77,14 @@ export default function Visual() {
 
 
         {/* 전체를 감싸는 큰 div(모바일) */}
-        <div className="mdVisual container-fluid     d-flex flex-column d-md-none mt-5 px-0 min-vh-75">
+        <div className="mdVisual container-fluid     d-flex flex-column d-md-none px-0 min-vh-75">
 
           {/* visual 이미지 */}
-          <div className="visualImg d-flex justify-content-center align-items-center mb-3 bg-primary flex-1 text-white">
-            여기 이미지
+          <div className="visualV d-flex justify-content-center align-items-center mb-3 bg-primary flex-1 text-white">
+            {/* 여기 이미지 */}
+            <video className='mbV' autoPlay loop muted>
+              <source src="/asset/gallery/video/pocoar_main01.mp4" type="video/mp4" />
+            </video>
           </div>
 
           {/* 글씨반복 */}

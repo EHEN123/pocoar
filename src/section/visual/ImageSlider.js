@@ -18,7 +18,7 @@ export default function ImageSlider() {
   ];
 
   return (
-    <div className="slide gx-2 col-12">
+    <div className="slide gx-2 px-md-0 px-3 col-12">
       <div className="scroll_wrap">
         <Swiper
           modules={[Autoplay]}

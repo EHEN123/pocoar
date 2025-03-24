@@ -45,7 +45,7 @@ export default function Footer() {
             </div>
 
             <div className="footerSns col-sm-6 col-md-4 col-lg-3 col-xl-2">
-              <div className="text-center">
+              <div className="text-xl-end text-left">
                 <a href="https://www.instagram.com/pocoar/" className="me-3 fs-3" target="_blank" rel="noopener noreferrer">
                   <svg aria-label="Instagram" className="x1lliihq x1n2onr6 x5n08af" fill="currentColor" height="24" role="img"
                     viewBox="0 0 24 24" width="24">

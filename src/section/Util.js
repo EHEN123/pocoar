@@ -93,7 +93,7 @@ export default function Util() {
 
       </a>
 
-      <nav class="navbar navbar-expand-lg navbar-light fixed-top d-block bg-w    my-3 mx-5"
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top d-block bg-w my-3 mx-sm-5 mx-2"
       data-navbar-on-scroll="data-navbar-on-scroll">
 
       <div className="hc container px-4">

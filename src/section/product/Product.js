@@ -37,8 +37,7 @@ export default function Product() {
                     role="tab"
                     aria-controls={`nav-${category.toUpperCase()}`}
                     aria-selected={activeTab === category}
-                    onClick={() => handleTabClick(category)}
-                  >
+                    onClick={() => handleTabClick(category)}>
                     {category.toUpperCase()}
                   </button>
                 ))}
@@ -52,8 +51,7 @@ export default function Product() {
                   className={`tab-pane fade ${activeTab === category ? 'show active' : ''}`}
                   id={`nav-${category.toUpperCase()}`}
                   role="tabpanel"
-                  aria-labelledby={`nav-${category.toUpperCase()}-tab`}
-                >
+                  aria-labelledby={`nav-${category.toUpperCase()}-tab`}>
                   <div className="row gx-3">
                     {images[category] && images[category].map((image, index) => (
                       <div className="col-6 col-xl-3 mb-3 h-100" key={index}>
